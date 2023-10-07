@@ -1,0 +1,7 @@
+imutils
+dlib
+numpy
+pandas
+tensorflow
+opencv-python
+flask
